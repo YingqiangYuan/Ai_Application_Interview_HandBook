@@ -1,2 +1,3 @@
 # learn_ai_application_interview-project
 
+A comprehensive interview question bank for **AI Application Engineers**, covering 100 questions across 3 experience levels (Junior, Mid-Level, Senior) and 25 topics. The focus is exclusively on the application layer of AI/LLM systems—building, deploying, and operating AI-powered products—rather than foundation model training or infrastructure. Each question includes a detailed training document with explanations, examples, and best practices. The project also provides interactive practice skills (`/practice`) that support interview mode with quizzes and study mode for self-paced learning.
