@@ -89,10 +89,10 @@ Based on your first session:
 
 ## Stretch Goals
 
-- [ ] Complete all Junior-level questions with 80%+ accuracy
-- [ ] Identify a Senior-level system design question and work through it in learning mode
-- [ ] Practice explaining a concept out loud (as if teaching someone else)
-- [ ] Apply one concept you learned to a real project
+- [X] Complete all Junior-level questions with 80%+ accuracy
+- [X] Identify a Senior-level system design question and work through it in learning mode
+- [X] Practice explaining a concept out loud (as if teaching someone else)
+- [=] Apply one concept you learned to a real project
 
 ---
 
